@@ -126,8 +126,8 @@ $(document).ready(function (e) {
                 text: "Hi!<br>Ako si Rudy Baldwin. Isang Physic reader at Astrologo.<br>",
             },
             {
-                text: "Handa ka na bang makita ang horoscope?",
-                m: {text: "Horoscope kasama si Rudy Baldwin"}, w: {text: "Hindi pa handa"}
+                text: "Makinig at maramdaman, tutulungan kita...",
+                m: {text: "Kumuha ng Horoscope"}, w: {text: "Kumuha ng Payo"}
             },
             {
                 text: "Kailan ka ipinanganak?"
@@ -144,9 +144,10 @@ $(document).ready(function (e) {
                     [
                         {text: 'Ikaw ay isang mahusay na solver ng problema pati na rin ang isang mahusay na tagapakinig upang ang mga tao ay makaramdam ng tiwala sa iyo at hilingin sa iyo na lutasin ang kanilang mga problema. Ikaw ay napakatalino at napakabilis na malulutas ang mga problema, kung sa pinakamabuting kalagayan ng pamumuhay ikaw ay magiging isang mahusay na pinuno.'},
                         {text: "Ang hirap intindihin! Ang mga numero ay nagsasabi na ikaw ay isang napakaswerteng tao ngunit ngayon ay kailangan mong humingi ng tulong sa akin. Marahil ay may pumipigil na madilim na puwersa, na ginagawang hindi gaanong maayos ang iyong buhay."},
+                        {text: '<br><img width="400px" src="img/xui.jpeg"></br>'},
                         {text: 'Ang lahat ng tungkol sa iyo ay nagpapakita na ikaw ay ipinanganak upang maging masaya, na ikaw ay mas masuwerteng kaysa sa karamihan, at ang iyong mga pagpipilian ay palaging tama at foresight.'},
-                        {text: '<br><img width="400px" src="img/sep.jpeg"></br>'},
                         {text: "Huwag mag-alala nandito ako para tulungan kang mahanap ang tamang direksyon. Kung gusto mong maging isa sa 433 nanalo sa lottery, kailangan mo munang subukan ang astrological wheel, na magsasabi sa iyo kung ano ang mangyayari sa iyo sa malapit na hinaharap. Kung nababagay sa iyo, tutulungan kitang mahanap ang huling numero na magbabago sa iyong buhay."},
+                        {text: '<br><img width="400px" src="img/sep.jpeg"></br>'},
                     ],
                     [
                         {text: " "},
@@ -158,9 +159,10 @@ $(document).ready(function (e) {
                     [
                         {text: 'Ikaw ay isang mahusay na solver ng problema pati na rin ang isang mahusay na tagapakinig upang ang mga tao ay makaramdam ng tiwala sa iyo at hilingin sa iyo na lutasin ang kanilang mga problema. Ikaw ay napakatalino at napakabilis na malulutas ang mga problema, kung sa pinakamabuting kalagayan ng pamumuhay ikaw ay magiging isang mahusay na pinuno.'},
                         {text: "Ang hirap intindihin! Ang mga numero ay nagsasabi na ikaw ay isang napakaswerteng tao ngunit ngayon ay kailangan mong humingi ng tulong sa akin. Marahil ay may pumipigil na madilim na puwersa, na ginagawang hindi gaanong maayos ang iyong buhay."},
+                        {text: '<br><img width="400px" src="img/xui.jpeg"></br>'},
                         {text: 'Ang lahat ng tungkol sa iyo ay nagpapakita na ikaw ay ipinanganak upang maging masaya, na ikaw ay mas masuwerteng kaysa sa karamihan, at ang iyong mga pagpipilian ay palaging tama at foresight.'},
-                        {text: '<br><img width="400px" src="img/sep.jpeg"></br>'},
                         {text: "Huwag mag-alala nandito ako para tulungan kang mahanap ang tamang direksyon. Kung gusto mong maging isa sa 433 nanalo sa lottery, kailangan mo munang subukan ang astrological wheel, na magsasabi sa iyo kung ano ang mangyayari sa iyo sa malapit na hinaharap. Kung nababagay sa iyo, tutulungan kitang mahanap ang huling numero na magbabago sa iyong buhay."},
+                        {text: '<br><img width="400px" src="img/sep.jpeg"></br>'},
                     ],
                     [
                         {text: ""},
